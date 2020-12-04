@@ -1,0 +1,12 @@
+Type Checking: Try checking the type of a value by using the type() method. This will always print out what kind of data type you’re checking. This is useful to check data types when you’re unsure. As an example:
+Ex: >>> type(int) # will output <class 'int'>
+
+Do for :
+
+
+    int
+    4 + 5.9
+    decimal(5)
+    true and false
+    f'{first_name} {last_name}' // first_name = 'Anand', last_name = 'S'
+
