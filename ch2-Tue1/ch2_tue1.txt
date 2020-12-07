@@ -1,0 +1,5 @@
+Variable Output: store the value 3 in a variable called “x” and the value 10 in a variable called “y”. save the result of
+x * y into a separate variable called “result”. Finally, output the information so it shows like the following:
+>>> 3 + 10 = 13
+
+Shall add tests
