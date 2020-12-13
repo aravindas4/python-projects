@@ -1,3 +1,0 @@
-Calculate the area of a 245.54” x 13.66” rectangle. print out the result. hINT: Area is width multiplied by height.
-
-Need to add tests
