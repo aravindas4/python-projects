@@ -4,6 +4,6 @@ def injection():
     for value in items:
         strng = str(value)
         var = var + strng + ' '
-    return var
+    return var.strip(' ')
 
 print(injection())
