@@ -1,0 +1,3 @@
+Using the format method, fill in the following blanks by assigning your name and favorite activities into variables:
+"{ }'s favorite sports is { }."
+"{ } is working on { } programming!"
