@@ -6,3 +6,4 @@ def test_inject():
     assert variable('Any',True,8) == "Any True 8"
     assert variable('A', 8888, 'Hi there', True) == "A 8888 Hi there True"
     assert variable(True, False,80.0) != 'True False 80'
+    
