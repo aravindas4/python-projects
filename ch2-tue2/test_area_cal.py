@@ -5,3 +5,4 @@ def test_area():
     b = 13.66
     area = a * b
     assert add(a,b) == area
+    
