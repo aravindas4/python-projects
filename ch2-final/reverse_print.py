@@ -18,4 +18,4 @@ name = '''****************************************
 print(name)
 
 def reverse(var):
-    return var[::-1]
+    return var[::-1]\
