@@ -1,7 +1,4 @@
-def format(*all):
-    assign1,assign2,assign3 = all
-    a = "{}'s favorite sports is {}.".format(assign1,assign2)
-    b = "{} is working on {} programming!".format(assign1,assign3) 
+def format(name,sport,language):
+    a = "{}'s favorite sports is {}.".format(name,sport)
+    b = "{} is working on {} programming!".format(name,language)
     return "\n".join({a,b})
-
-print(format("Anand","cricket","python"))
