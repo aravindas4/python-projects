@@ -1,0 +1,4 @@
+1. Uppercasing: Try manipulating the string “uppercase” so it prints out as all
+   uppercase letters. you’ll need to look up a new method.
+2. Strip Symbols: strip all the dollar signs from the left side of this string “$$John smith”. 
+   Try it with .lstrip( ) and .strip( ). To see a description on how to use
