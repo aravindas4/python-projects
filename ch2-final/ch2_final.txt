@@ -1,7 +1,0 @@
-1) We’ll be building a small receipt printing program with the concepts we’ve learned, in which the output will look like Figure 2-2.
-    Figure 2-2.
-
-
-2) Reverse: Declare a variable equal to “Hello”. Reverse the string using slicing. Try looking it up if you struggle.
-
-P.S: Tests are required only for 2.
