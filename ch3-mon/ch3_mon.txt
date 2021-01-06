@@ -1,0 +1,8 @@
+Converting: Try converting a string of “True” to a boolean, and then output its
+type to make sure it converted properly.
+
+Sum of Inputs: Create two input statements, and ask the user to enter two numbers. 
+print the sum of these numbers out.
+
+Car Information: Ask the user to input the year, make, model, and color of their car,
+and print a nicely formatted statement like “2018 Blue Chevrolet silverado.”
