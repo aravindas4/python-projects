@@ -2,3 +2,4 @@ Higher/Lower: Ask the user to input a number. Type convert that number, and
 use an if/elif statement to print whether it’s higher or lower than 100.
 
 Find the Solution: Given the following code, fix any/all errors in order to make it output “lower”:
+x, y = 5, 10 if x > y: print("greater") try x < y: print("lower")
