@@ -1,0 +1,11 @@
+Ask the user for the calculation they would like to perform.
+Ask the user for the numbers they would like to run the operation on.
+Set up try/except clause for mathematical operation.
+    a. Convert numbers input to floats.
+    b. Perform operation and print result.
+    c. If an exception is hit, print error.
+
+Reversing Numbers: Alter the calculator project so that the order of the numbers doesn’t matter. 
+There are a few ways to get the same result; 
+one way is to ask the user if they’d like to reverse the placement of the numbers.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
