@@ -5,3 +5,4 @@ def test_sport():
 
 def test_letter():
     assert group(["Raj","Ajey", "Madhu", "Ananth"]) == "R,A,M,A"
+    
