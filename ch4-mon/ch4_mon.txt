@@ -1,0 +1,6 @@
+Sports: define a list of strings, where each string is a sport. 
+then output each sport with the following line "I like to play {}”...
+
+First Character: For the following list, print out each item"s first letter. 
+(output should be "J", "A", "S", "K")
+names = ["John", "Abraham", "Sam", "Kelly"]  
