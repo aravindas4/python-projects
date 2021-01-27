@@ -1,0 +1,5 @@
+1. Divisible by Three: Write a for loop that prints out     
+all numbers from 1 to 100 that are divisible by three.
+
+2. Only Vowels: Ask for user input, and write a for loop that will
+    output all the vowels within it. 
