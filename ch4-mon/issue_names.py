@@ -1,11 +1,7 @@
 def string(sport):
-    line = []
-    for item in sport:
-        line.append(f"I like to play {item}")
+    line = [f"I like to play {item}" for item in sport]
     return ", ".join(line)
 
 def group(name):
-    first_letter = []
-    for item in name:
-        first_letter.append(item[0])
+    first_letter = [item[0] for item in name]
     return ",".join(first_letter)
