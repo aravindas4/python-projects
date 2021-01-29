@@ -1,16 +1,17 @@
 def type():
     while True:
-        word = input("Enter: ")
+        word = input()
         if word == "quit":
             break 
 
-def double_loop(num,game_over = True):
+def double_loop(num):
+    game_over = True
+    output = []
     while True:
-        output = []
         for item in range(num):
             output.append(item)
             if item == 2:
                 game_over = True
                 break
-        return ",".join(map(str,output))
+        return ",".join(map(str, output))
         
