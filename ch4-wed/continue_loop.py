@@ -5,13 +5,12 @@ def type():
             break 
 
 def double_loop(num):
-    game_over = True
+    game_over = False
     output = []
-    while True:
+    while not game_over:
         for item in range(num):
-            output.append(item)
-            if item == 2:
+            if item == 3:
                 game_over = True
                 break
-        return ",".join(map(str, output))
-        
+            output.append(item)
+    return ",".join(map(str, output))
