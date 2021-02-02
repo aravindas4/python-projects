@@ -1,0 +1,6 @@
+1. User Input: Write a while loop that continues to ask for user input and runs
+until they type “quit”.
+2. Double Loop: Write a for loop within a while loop that will count from 0 to 5,
+    but when it reaches 3, it sets a game_over variable to True and breaks out of the loop.
+    the while loop should continue to loop until game_over is True.
+    the output should only be 0, 1, 2
