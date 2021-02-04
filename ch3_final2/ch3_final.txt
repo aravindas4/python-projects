@@ -1,0 +1,12 @@
+Age Group: Ask the user to input their age.
+ Depending on their input, output one of the following groups:
+a. Between 0 and 12 = “Kid”
+b. Between 13 and 19 = “Teenager”
+c. Between 20 and 30 = “Young Adult”
+d. Between 31 and 64 = “Adult”
+e. 65 or above = “Senior”
+
+Text-Based RPG: This is an open-ended exercise.
+ Create a text- based RPG with a story line.You take user input and give them
+a couple choices, and depending on what they choose, they can go down a different path.
+ You’ll use several branching statements depending on the length of the story.
