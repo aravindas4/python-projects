@@ -1,0 +1,7 @@
+User Input: ask the user to input a word,and pass that word into a function
+            that checks if the word starts with an uppercase.
+            If it does output “True”, otherwise “False”.
+
+No Name: Define a function that takes in two arguments, first_name and last_ name, 
+        and makes both optional. If no values are passed into the parameters, 
+        it should output “No name passed in”; otherwise, it should print out the name.
