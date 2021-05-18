@@ -1,0 +1,2 @@
+User Input: Ask the user for their name and age, and then create a dictionary
+            with those key-value pairs. output the dictionary once created.
